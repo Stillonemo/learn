@@ -1,0 +1,15 @@
+th {
+  border: 2px;
+  border-bottom: 1px solid black;
+}
+
+.contact {
+  margin-top: 100px;
+}
+
+.home {
+  padding: 10px;
+  size: 10px;
+  background-color: rgb(164, 190, 206);
+  width: 5%;
+}
